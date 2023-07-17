@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿//Endpoints
+using Microsoft.EntityFrameworkCore;
 using ZoologicoApi.Data;
 using ZoologicoApi.Data.Models;
 namespace ZoologicoApi.Controllers;
