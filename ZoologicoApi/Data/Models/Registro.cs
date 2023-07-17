@@ -1,4 +1,4 @@
-﻿
+﻿//VariablesRegistro
 
 namespace ZoologicoApi.Data.Models;
 
